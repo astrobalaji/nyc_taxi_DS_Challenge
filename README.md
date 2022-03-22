@@ -1,7 +1,5 @@
 # New York Taxi Demand Forecast
 
-Test for data scientist role.
-
 ## Acknowledgements
 The data was originally published by the NYC Taxi and Limousine Commission (TLC) and made publicly available
 via [NYC Open Data](https://opendata.cityofnewyork.us/). For the purpose of this challenge the data was sampled
