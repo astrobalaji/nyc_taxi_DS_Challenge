@@ -17,7 +17,7 @@ The dataset is not cleaned and can contain invalid data points or outliers.
 You must predict,
 
 * the total count of passengers in the next hour \
-Bonus:
+***Bonus:***
 * the total amount earned through taxi rides in the next hour
 
 using only information available prior to the respective period.
